@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently exploring **Machine Learning**
 
-- 💬 Ask me about **MERN Stack , TypeScript , RestAPI , Redux**
+- 💬 Ask me about **MERN Stack , TypeScript , Redux**
 
 - 📫 How to reach me **mdfahadrahman1969@gmail.com**
 
