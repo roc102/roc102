@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/fahad34770" target="blank"><img src="https://img.shields.io/twitter/follow/fahad34770?logo=twitter&style=for-the-badge" alt="fahad34770" /></a> </p>
 
-- 🌱 I’m currently exploring **Machine Learning**
+- 🌱 I’m currently Learning **DevOps**
 
 - 💬 Ask me about **MERN Stack , TypeScript , Redux**
 
