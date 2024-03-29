@@ -33,7 +33,7 @@
 
 | [E-Commerce Website](https://github.com/roc102/Humari-Dukan) | [Face Recognition Brain](https://github.com/roc102/smart-brain) |
 | :---: | :---: |
-| [<img src="https://github.com/roc102/Humari-Dukan/raw/master/demo.gif" width="450">](https://github.com/roc102/Humari-Dukan) | [<img src="https://github.com/roc102/smart-brain/raw/main/client/demo.gif" width="450">](https://github.com/roc102/smart-brain) |
+| [<img src="https://github.com/roc102/E-commerce-website/raw/main/demo.gif" width="450">](https://github.com/roc102/Humari-Dukan) | [<img src="https://github.com/roc102/smart-brain/raw/main/client/demo.gif" width="450">](https://github.com/roc102/smart-brain) |
 
 | [Hide and Seek](https://github.com/roc102/hide-and-seek) | [robofriends-redux](https://github.com/roc102/robofriends-redux) |
 | :---: | :---: |
