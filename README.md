@@ -31,7 +31,7 @@
 | [BookMyShow-clone](https://github.com/roc102/BookMyShow-clone) |
 | [<img src="https://github.com/roc102/BookMyShow-clone/raw/main/demo.gif" width="900">](https://github.com/roc102/BookMyShow-clone) |
 
-| [E-Commerce Website](https://github.com/roc102/Humari-Dukan) | [Face Recognition Brain](https://github.com/roc102/smart-brain) |
+| [E-Commerce Website](https://github.com/roc102/E-commerce-website) | [Face Recognition Brain](https://github.com/roc102/smart-brain) |
 | :---: | :---: |
 | [<img src="https://github.com/roc102/E-commerce-website/raw/main/demo.gif" width="450">](https://github.com/roc102/Humari-Dukan) | [<img src="https://github.com/roc102/smart-brain/raw/main/client/demo.gif" width="450">](https://github.com/roc102/smart-brain) |
 
